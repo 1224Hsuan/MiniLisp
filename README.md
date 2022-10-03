@@ -34,7 +34,7 @@ An interpreter of MiniLisp.
   
 * if Expression
 * Variable Definition
-* Function
+* Anonymous Function
 * Named Function
 
 ## Compilation and Execution
